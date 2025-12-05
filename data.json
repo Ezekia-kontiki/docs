@@ -1,0 +1,62 @@
+[
+    [
+        {
+            "id": 1,
+            "nom": "nom1",
+            "event": "clicks",
+            "isEvent": 1
+        },
+        {
+            "id": 2,
+            "nom": "nom2",
+            "event": "clicks",
+            "isEvent": 1
+        },
+        {
+            "id": 3,
+            "nom": "nom3",
+            "event": "clicks",
+            "isEvent": 1
+        }
+    ],
+    [
+        {
+            "id": 1,
+            "nom": "nom1",
+            "event": "opens",
+            "isEvent": 1
+        },
+        {
+            "id": 2,
+            "nom": "nom2",
+            "event": "opens",
+            "isEvent": 1
+        },
+        {
+            "id": 3,
+            "nom": "nom3",
+            "event": "opens",
+            "isEvent": 1
+        }
+    ],
+    [
+        {
+            "id": 1,
+            "nom": "nom1",
+            "event": "bounce",
+            "isEvent": 1
+        },
+        {
+            "id": 2,
+            "nom": "nom2",
+            "event": "bounce",
+            "isEvent": 1
+        },
+        {
+            "id": 3,
+            "nom": "nom3",
+            "event": "bounce",
+            "isEvent": 1
+        }
+    ]
+]
